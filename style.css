@@ -12,10 +12,10 @@ padding: 5%;
 }
 .half-width img{
     width: 100%;
-    margin-top: 2%;
 }
 h2{
     font-size: 45px;
+    padding: -11px;
 }
 .green-color{
     color: blue
@@ -27,4 +27,53 @@ h2{
     padding: 10px 20px;
     border-radius: 20px;
     font-weight: 800;
+}
+.Second-section{
+    display: flex;
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: middle;
+}
+.second-half-width{
+    width: 50%;
+    margin: 10px;
+}
+.Contact{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 800;
+}
+.Recepie{
+    display: flex;
+}
+.third-half-width{
+    width: 30%;
+    margin-left: 5%;
+    box-shadow: 10px 20px 40px;
+    border-radius: 20px;
+    text-align: center;
+}
+.thrid-section{
+    text-align: center;
+}
+.fourth-half-width{
+    width: 30%;
+    margin-left: 5%;
+    box-shadow: 10px 20px 40px;
+    border-radius: 20px;
+    text-align: center;
+    background-image: url(images/Project\ Cover.png);
+    background-position: top;
+    background-size: 50;
+    background-repeat: no-repeat;
+}
+.fifth-half-width{
+    width: 30%;
+    margin-left: 5%;
+    box-shadow: 10px 20px 40px;
+    border-radius: 20px;
+    text-align: center;  
 }
