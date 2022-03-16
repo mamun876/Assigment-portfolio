@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-section{
+    display: flex;
+}
+.half-width{
+width: 50%;
+margin-left: 2%;
+margin-top: 5%;
+padding: 5%;
+}
+.half-width img{
+    width: 100%;
+    margin-top: 2%;
+}
+h2{
+    font-size: 45px;
+}
+.green-color{
+    color: blue
+}
+.order-food{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 800;
+}
