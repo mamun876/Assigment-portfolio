@@ -31,8 +31,7 @@ h2{
 .Second-section{
     display: flex;
     background-image: url(images/Frame\ 57.jpg);
-    background-repeat: no-repeat;
-    background-position: middle;
+    background-size: 100%;
 }
 .second-half-width{
     width: 50%;
@@ -47,42 +46,45 @@ h2{
     font-weight: 800;
 }
 .thrid-section{
-    margin: 5%%;
+    margin: 5%;
+    text-align: center;
 }
 .Recepie{
     display: flex;
 }
+.Recepie-Title{
+    font-size: 30px;
+    font-weight: 700;
+}
 .third-half-width{
     width: 30%;
-    margin: 5%;
-    box-shadow: 5px 10px 20px;
+    margin: 1%;
+    box-shadow: 3px 6px 10px;
     border-radius: 20px;
-    text-align: center;
+    padding: 20px;
+    text-align: left;
 }
 .third-half-width img{
     width: 100%;
 }
-.thrid-section{
-    text-align: center;
-}
 .fourth-half-width{
     width: 30%;
-    margin: 5%;
-    box-shadow: 5px 10px 20px;
+    margin: 1%;
+    box-shadow: 3px 6px 10px;
     border-radius: 20px;
-    text-align: center;
-    background-position: top;
-    background-repeat: no-repeat;
+    padding: 20px;
+    text-align: left;
 }
 .fourth-half-width img{
     width: 100%;
 }
 .fifth-half-width{
     width: 30%;
-    margin: 5%;
-    box-shadow: 5px 10px 20px;
+    margin: 1%;
+    box-shadow: 3px 6px 10px;
     border-radius: 20px;
-    text-align: center;
+    padding: 20px;
+    text-align: left;
 }
 .fifth-half-width img{
     width: 100%;
@@ -100,9 +102,9 @@ h2{
 footer{
     text-align: center;
     background-color: black;
-    padding: 7px;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .food-network{
     color: aliceblue;
+    padding: 5px;
 }
