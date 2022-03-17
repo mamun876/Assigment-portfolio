@@ -46,34 +46,63 @@ h2{
     border-radius: 20px;
     font-weight: 800;
 }
+.thrid-section{
+    margin: 5%%;
+}
 .Recepie{
     display: flex;
 }
 .third-half-width{
     width: 30%;
-    margin-left: 5%;
-    box-shadow: 10px 20px 40px;
+    margin: 5%;
+    box-shadow: 5px 10px 20px;
     border-radius: 20px;
     text-align: center;
+}
+.third-half-width img{
+    width: 100%;
 }
 .thrid-section{
     text-align: center;
 }
 .fourth-half-width{
     width: 30%;
-    margin-left: 5%;
-    box-shadow: 10px 20px 40px;
+    margin: 5%;
+    box-shadow: 5px 10px 20px;
     border-radius: 20px;
     text-align: center;
-    background-image: url(images/Project\ Cover.png);
     background-position: top;
-    background-size: 50;
     background-repeat: no-repeat;
+}
+.fourth-half-width img{
+    width: 100%;
 }
 .fifth-half-width{
     width: 30%;
-    margin-left: 5%;
-    box-shadow: 10px 20px 40px;
+    margin: 5%;
+    box-shadow: 5px 10px 20px;
     border-radius: 20px;
-    text-align: center;  
+    text-align: center;
+}
+.fifth-half-width img{
+    width: 100%;
+}
+.final-section{
+    display: flex;
+    box-shadow: 1px 2px 20px;
+    border-radius: 20px;
+    margin: 5%;
+}
+.final-half-width{
+    width: 30%;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 7px;
+    margin-top: 10%;
+}
+.food-network{
+    color: aliceblue;
 }
